@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01GenericBoxOfString", "P01GenericBoxOfString\P01GenericBoxOfString.csproj", "{7DB39878-8376-4BF6-9365-3FCF8438D5E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07Tuple", "P07Tuple\P07Tuple.csproj", "{844A0154-243B-463D-ADBF-6596E96E8C08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB39878-8376-4BF6-9365-3FCF8438D5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB39878-8376-4BF6-9365-3FCF8438D5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB39878-8376-4BF6-9365-3FCF8438D5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB39878-8376-4BF6-9365-3FCF8438D5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844A0154-243B-463D-ADBF-6596E96E8C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844A0154-243B-463D-ADBF-6596E96E8C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844A0154-243B-463D-ADBF-6596E96E8C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844A0154-243B-463D-ADBF-6596E96E8C08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11088D94-99CB-4354-855F-A44F8ADD0BB8}
+	EndGlobalSection
+EndGlobal
