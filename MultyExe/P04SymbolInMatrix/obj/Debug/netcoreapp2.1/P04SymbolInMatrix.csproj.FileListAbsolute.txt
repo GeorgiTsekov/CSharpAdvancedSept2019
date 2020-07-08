@@ -1,0 +1,11 @@
+C:\Dev\AdvancedModul\MultidimensionalArrays\P04SymbolInMatrix\bin\Debug\netcoreapp2.1\P04SymbolInMatrix.deps.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P04SymbolInMatrix\bin\Debug\netcoreapp2.1\P04SymbolInMatrix.runtimeconfig.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P04SymbolInMatrix\bin\Debug\netcoreapp2.1\P04SymbolInMatrix.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P04SymbolInMatrix\bin\Debug\netcoreapp2.1\P04SymbolInMatrix.dll
+C:\Dev\AdvancedModul\MultidimensionalArrays\P04SymbolInMatrix\bin\Debug\netcoreapp2.1\P04SymbolInMatrix.pdb
+C:\Dev\AdvancedModul\MultidimensionalArrays\P04SymbolInMatrix\obj\Debug\netcoreapp2.1\P04SymbolInMatrix.csprojAssemblyReference.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P04SymbolInMatrix\obj\Debug\netcoreapp2.1\P04SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P04SymbolInMatrix\obj\Debug\netcoreapp2.1\P04SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P04SymbolInMatrix\obj\Debug\netcoreapp2.1\P04SymbolInMatrix.AssemblyInfo.cs
+C:\Dev\AdvancedModul\MultidimensionalArrays\P04SymbolInMatrix\obj\Debug\netcoreapp2.1\P04SymbolInMatrix.dll
+C:\Dev\AdvancedModul\MultidimensionalArrays\P04SymbolInMatrix\obj\Debug\netcoreapp2.1\P04SymbolInMatrix.pdb

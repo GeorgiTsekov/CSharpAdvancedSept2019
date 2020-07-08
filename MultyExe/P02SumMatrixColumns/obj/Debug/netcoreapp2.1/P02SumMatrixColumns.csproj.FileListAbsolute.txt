@@ -1,0 +1,11 @@
+C:\Dev\AdvancedModul\MultidimensionalArrays\P02SumMatrixColumns\bin\Debug\netcoreapp2.1\P02SumMatrixColumns.deps.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P02SumMatrixColumns\bin\Debug\netcoreapp2.1\P02SumMatrixColumns.runtimeconfig.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P02SumMatrixColumns\bin\Debug\netcoreapp2.1\P02SumMatrixColumns.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P02SumMatrixColumns\bin\Debug\netcoreapp2.1\P02SumMatrixColumns.dll
+C:\Dev\AdvancedModul\MultidimensionalArrays\P02SumMatrixColumns\bin\Debug\netcoreapp2.1\P02SumMatrixColumns.pdb
+C:\Dev\AdvancedModul\MultidimensionalArrays\P02SumMatrixColumns\obj\Debug\netcoreapp2.1\P02SumMatrixColumns.csprojAssemblyReference.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P02SumMatrixColumns\obj\Debug\netcoreapp2.1\P02SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P02SumMatrixColumns\obj\Debug\netcoreapp2.1\P02SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P02SumMatrixColumns\obj\Debug\netcoreapp2.1\P02SumMatrixColumns.AssemblyInfo.cs
+C:\Dev\AdvancedModul\MultidimensionalArrays\P02SumMatrixColumns\obj\Debug\netcoreapp2.1\P02SumMatrixColumns.dll
+C:\Dev\AdvancedModul\MultidimensionalArrays\P02SumMatrixColumns\obj\Debug\netcoreapp2.1\P02SumMatrixColumns.pdb

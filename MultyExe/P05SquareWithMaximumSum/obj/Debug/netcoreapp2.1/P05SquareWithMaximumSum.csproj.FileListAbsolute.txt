@@ -1,0 +1,11 @@
+C:\Dev\AdvancedModul\MultidimensionalArrays\P05SquareWithMaximumSum\bin\Debug\netcoreapp2.1\P05SquareWithMaximumSum.deps.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P05SquareWithMaximumSum\bin\Debug\netcoreapp2.1\P05SquareWithMaximumSum.runtimeconfig.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P05SquareWithMaximumSum\bin\Debug\netcoreapp2.1\P05SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P05SquareWithMaximumSum\bin\Debug\netcoreapp2.1\P05SquareWithMaximumSum.dll
+C:\Dev\AdvancedModul\MultidimensionalArrays\P05SquareWithMaximumSum\bin\Debug\netcoreapp2.1\P05SquareWithMaximumSum.pdb
+C:\Dev\AdvancedModul\MultidimensionalArrays\P05SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05SquareWithMaximumSum.csprojAssemblyReference.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P05SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P05SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P05SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05SquareWithMaximumSum.AssemblyInfo.cs
+C:\Dev\AdvancedModul\MultidimensionalArrays\P05SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05SquareWithMaximumSum.dll
+C:\Dev\AdvancedModul\MultidimensionalArrays\P05SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05SquareWithMaximumSum.pdb

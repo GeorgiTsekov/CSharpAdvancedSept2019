@@ -1,0 +1,11 @@
+C:\Dev\AdvancedModul\MultidimensionalArrays\P06JaggetArrayModification\bin\Debug\netcoreapp2.1\P06JaggetArrayModification.deps.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P06JaggetArrayModification\bin\Debug\netcoreapp2.1\P06JaggetArrayModification.runtimeconfig.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P06JaggetArrayModification\bin\Debug\netcoreapp2.1\P06JaggetArrayModification.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P06JaggetArrayModification\bin\Debug\netcoreapp2.1\P06JaggetArrayModification.dll
+C:\Dev\AdvancedModul\MultidimensionalArrays\P06JaggetArrayModification\bin\Debug\netcoreapp2.1\P06JaggetArrayModification.pdb
+C:\Dev\AdvancedModul\MultidimensionalArrays\P06JaggetArrayModification\obj\Debug\netcoreapp2.1\P06JaggetArrayModification.csprojAssemblyReference.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P06JaggetArrayModification\obj\Debug\netcoreapp2.1\P06JaggetArrayModification.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P06JaggetArrayModification\obj\Debug\netcoreapp2.1\P06JaggetArrayModification.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P06JaggetArrayModification\obj\Debug\netcoreapp2.1\P06JaggetArrayModification.AssemblyInfo.cs
+C:\Dev\AdvancedModul\MultidimensionalArrays\P06JaggetArrayModification\obj\Debug\netcoreapp2.1\P06JaggetArrayModification.dll
+C:\Dev\AdvancedModul\MultidimensionalArrays\P06JaggetArrayModification\obj\Debug\netcoreapp2.1\P06JaggetArrayModification.pdb

@@ -1,0 +1,10 @@
+C:\Dev\AdvancedModul\MultidimensionalArrays\P03PrimaryDiagonal\bin\Debug\netcoreapp2.1\P03PrimaryDiagonal.deps.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P03PrimaryDiagonal\bin\Debug\netcoreapp2.1\P03PrimaryDiagonal.runtimeconfig.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P03PrimaryDiagonal\bin\Debug\netcoreapp2.1\P03PrimaryDiagonal.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\MultidimensionalArrays\P03PrimaryDiagonal\bin\Debug\netcoreapp2.1\P03PrimaryDiagonal.dll
+C:\Dev\AdvancedModul\MultidimensionalArrays\P03PrimaryDiagonal\bin\Debug\netcoreapp2.1\P03PrimaryDiagonal.pdb
+C:\Dev\AdvancedModul\MultidimensionalArrays\P03PrimaryDiagonal\obj\Debug\netcoreapp2.1\P03PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P03PrimaryDiagonal\obj\Debug\netcoreapp2.1\P03PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArrays\P03PrimaryDiagonal\obj\Debug\netcoreapp2.1\P03PrimaryDiagonal.AssemblyInfo.cs
+C:\Dev\AdvancedModul\MultidimensionalArrays\P03PrimaryDiagonal\obj\Debug\netcoreapp2.1\P03PrimaryDiagonal.dll
+C:\Dev\AdvancedModul\MultidimensionalArrays\P03PrimaryDiagonal\obj\Debug\netcoreapp2.1\P03PrimaryDiagonal.pdb
