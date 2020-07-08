@@ -1,0 +1,11 @@
+C:\Dev\AdvancedModul\Exam24Feb2019\P02TronRacers\bin\Debug\netcoreapp2.1\P02TronRacers.deps.json
+C:\Dev\AdvancedModul\Exam24Feb2019\P02TronRacers\bin\Debug\netcoreapp2.1\P02TronRacers.runtimeconfig.json
+C:\Dev\AdvancedModul\Exam24Feb2019\P02TronRacers\bin\Debug\netcoreapp2.1\P02TronRacers.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\Exam24Feb2019\P02TronRacers\bin\Debug\netcoreapp2.1\P02TronRacers.dll
+C:\Dev\AdvancedModul\Exam24Feb2019\P02TronRacers\bin\Debug\netcoreapp2.1\P02TronRacers.pdb
+C:\Dev\AdvancedModul\Exam24Feb2019\P02TronRacers\obj\Debug\netcoreapp2.1\P02TronRacers.csprojAssemblyReference.cache
+C:\Dev\AdvancedModul\Exam24Feb2019\P02TronRacers\obj\Debug\netcoreapp2.1\P02TronRacers.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\Exam24Feb2019\P02TronRacers\obj\Debug\netcoreapp2.1\P02TronRacers.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\Exam24Feb2019\P02TronRacers\obj\Debug\netcoreapp2.1\P02TronRacers.AssemblyInfo.cs
+C:\Dev\AdvancedModul\Exam24Feb2019\P02TronRacers\obj\Debug\netcoreapp2.1\P02TronRacers.dll
+C:\Dev\AdvancedModul\Exam24Feb2019\P02TronRacers\obj\Debug\netcoreapp2.1\P02TronRacers.pdb

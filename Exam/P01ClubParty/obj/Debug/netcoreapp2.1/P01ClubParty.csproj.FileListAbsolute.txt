@@ -1,0 +1,11 @@
+C:\Dev\AdvancedModul\Exam24Feb2019\P01ClubParty\bin\Debug\netcoreapp2.1\P01ClubParty.deps.json
+C:\Dev\AdvancedModul\Exam24Feb2019\P01ClubParty\bin\Debug\netcoreapp2.1\P01ClubParty.runtimeconfig.json
+C:\Dev\AdvancedModul\Exam24Feb2019\P01ClubParty\bin\Debug\netcoreapp2.1\P01ClubParty.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\Exam24Feb2019\P01ClubParty\bin\Debug\netcoreapp2.1\P01ClubParty.dll
+C:\Dev\AdvancedModul\Exam24Feb2019\P01ClubParty\bin\Debug\netcoreapp2.1\P01ClubParty.pdb
+C:\Dev\AdvancedModul\Exam24Feb2019\P01ClubParty\obj\Debug\netcoreapp2.1\P01ClubParty.csprojAssemblyReference.cache
+C:\Dev\AdvancedModul\Exam24Feb2019\P01ClubParty\obj\Debug\netcoreapp2.1\P01ClubParty.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\Exam24Feb2019\P01ClubParty\obj\Debug\netcoreapp2.1\P01ClubParty.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\Exam24Feb2019\P01ClubParty\obj\Debug\netcoreapp2.1\P01ClubParty.AssemblyInfo.cs
+C:\Dev\AdvancedModul\Exam24Feb2019\P01ClubParty\obj\Debug\netcoreapp2.1\P01ClubParty.dll
+C:\Dev\AdvancedModul\Exam24Feb2019\P01ClubParty\obj\Debug\netcoreapp2.1\P01ClubParty.pdb
