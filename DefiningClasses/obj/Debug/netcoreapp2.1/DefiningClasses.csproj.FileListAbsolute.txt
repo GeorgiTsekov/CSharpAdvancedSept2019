@@ -1,0 +1,11 @@
+C:\Dev\AdvancedModul\DefClasses\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.deps.json
+C:\Dev\AdvancedModul\DefClasses\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.json
+C:\Dev\AdvancedModul\DefClasses\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\DefClasses\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.dll
+C:\Dev\AdvancedModul\DefClasses\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.pdb
+C:\Dev\AdvancedModul\DefClasses\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.csprojAssemblyReference.cache
+C:\Dev\AdvancedModul\DefClasses\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\DefClasses\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\DefClasses\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfo.cs
+C:\Dev\AdvancedModul\DefClasses\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.dll
+C:\Dev\AdvancedModul\DefClasses\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.pdb
