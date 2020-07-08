@@ -1,0 +1,11 @@
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P08Bombs\bin\Debug\netcoreapp2.1\P08Bombs.deps.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P08Bombs\bin\Debug\netcoreapp2.1\P08Bombs.runtimeconfig.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P08Bombs\bin\Debug\netcoreapp2.1\P08Bombs.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P08Bombs\bin\Debug\netcoreapp2.1\P08Bombs.dll
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P08Bombs\bin\Debug\netcoreapp2.1\P08Bombs.pdb
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P08Bombs\obj\Debug\netcoreapp2.1\P08Bombs.csprojAssemblyReference.cache
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P08Bombs\obj\Debug\netcoreapp2.1\P08Bombs.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P08Bombs\obj\Debug\netcoreapp2.1\P08Bombs.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P08Bombs\obj\Debug\netcoreapp2.1\P08Bombs.AssemblyInfo.cs
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P08Bombs\obj\Debug\netcoreapp2.1\P08Bombs.dll
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P08Bombs\obj\Debug\netcoreapp2.1\P08Bombs.pdb

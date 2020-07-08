@@ -1,0 +1,11 @@
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P01DiagonalDiff\bin\Debug\netcoreapp2.1\P01DiagonalDiff.deps.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P01DiagonalDiff\bin\Debug\netcoreapp2.1\P01DiagonalDiff.runtimeconfig.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P01DiagonalDiff\bin\Debug\netcoreapp2.1\P01DiagonalDiff.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P01DiagonalDiff\bin\Debug\netcoreapp2.1\P01DiagonalDiff.dll
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P01DiagonalDiff\bin\Debug\netcoreapp2.1\P01DiagonalDiff.pdb
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P01DiagonalDiff\obj\Debug\netcoreapp2.1\P01DiagonalDiff.csprojAssemblyReference.cache
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P01DiagonalDiff\obj\Debug\netcoreapp2.1\P01DiagonalDiff.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P01DiagonalDiff\obj\Debug\netcoreapp2.1\P01DiagonalDiff.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P01DiagonalDiff\obj\Debug\netcoreapp2.1\P01DiagonalDiff.AssemblyInfo.cs
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P01DiagonalDiff\obj\Debug\netcoreapp2.1\P01DiagonalDiff.dll
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P01DiagonalDiff\obj\Debug\netcoreapp2.1\P01DiagonalDiff.pdb

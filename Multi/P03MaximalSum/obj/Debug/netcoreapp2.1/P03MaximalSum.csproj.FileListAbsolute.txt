@@ -1,0 +1,10 @@
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P03MaximalSum\obj\Debug\netcoreapp2.1\P03MaximalSum.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P03MaximalSum\obj\Debug\netcoreapp2.1\P03MaximalSum.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P03MaximalSum\obj\Debug\netcoreapp2.1\P03MaximalSum.AssemblyInfo.cs
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P03MaximalSum\bin\Debug\netcoreapp2.1\P03MaximalSum.deps.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P03MaximalSum\bin\Debug\netcoreapp2.1\P03MaximalSum.runtimeconfig.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P03MaximalSum\bin\Debug\netcoreapp2.1\P03MaximalSum.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P03MaximalSum\bin\Debug\netcoreapp2.1\P03MaximalSum.dll
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P03MaximalSum\bin\Debug\netcoreapp2.1\P03MaximalSum.pdb
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P03MaximalSum\obj\Debug\netcoreapp2.1\P03MaximalSum.dll
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P03MaximalSum\obj\Debug\netcoreapp2.1\P03MaximalSum.pdb

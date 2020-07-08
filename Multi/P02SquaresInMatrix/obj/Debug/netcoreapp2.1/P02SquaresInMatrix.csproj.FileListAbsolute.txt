@@ -1,0 +1,10 @@
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P02SquaresInMatrix\bin\Debug\netcoreapp2.1\P02SquaresInMatrix.deps.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P02SquaresInMatrix\bin\Debug\netcoreapp2.1\P02SquaresInMatrix.runtimeconfig.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P02SquaresInMatrix\bin\Debug\netcoreapp2.1\P02SquaresInMatrix.runtimeconfig.dev.json
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P02SquaresInMatrix\bin\Debug\netcoreapp2.1\P02SquaresInMatrix.dll
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P02SquaresInMatrix\bin\Debug\netcoreapp2.1\P02SquaresInMatrix.pdb
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P02SquaresInMatrix\obj\Debug\netcoreapp2.1\P02SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P02SquaresInMatrix\obj\Debug\netcoreapp2.1\P02SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P02SquaresInMatrix\obj\Debug\netcoreapp2.1\P02SquaresInMatrix.AssemblyInfo.cs
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P02SquaresInMatrix\obj\Debug\netcoreapp2.1\P02SquaresInMatrix.dll
+C:\Dev\AdvancedModul\MultidimensionalArraysExe\P02SquaresInMatrix\obj\Debug\netcoreapp2.1\P02SquaresInMatrix.pdb
