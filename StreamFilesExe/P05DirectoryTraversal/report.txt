@@ -1,0 +1,18 @@
+.json
+--P05DirectoryTraversal.runtimeconfig.json - 0.154kb
+--P05DirectoryTraversal.runtimeconfig.dev.json - 0.236kb
+--P05DirectoryTraversal.deps.json - 0.495kb
+.txt
+--words.txt - 0.016kb
+--expectedResult.txt - 0.028kb
+--text.txt - 0.123kb
+.zip
+--DirectoryTraversalDemo.zip - 1.601kb
+--04. CSharp-Advanced-Streams-Files-and-Directories-Exercise-Resources - Copy.zip - 9.914kb
+--04. CSharp-Advanced-Streams-Files-and-Directories-Exercise-Resources.zip - 9.914kb
+.dll
+--P05DirectoryTraversal.dll - 7.168kb
+.pdb
+--P05DirectoryTraversal.pdb - 1.256kb
+.png
+--copyMe.png - 9.355kb
